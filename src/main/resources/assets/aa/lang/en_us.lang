@@ -1,0 +1,6 @@
+
+//Items
+item.probe_identification_chip.name=PROBEIDENTIFICATIONCHIP
+
+//Blocks
+tile.space_telescope_block.name=Space Telescope
